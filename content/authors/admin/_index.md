@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuhan Wang 王宇晗
+title: Yuhan Wang
 
 # Is this the primary user of the site?
 superuser: true
@@ -66,6 +66,8 @@ email: "yuhan004@e.ntu.edu.sg"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+My name is spelled 王宇晗 in Chinese. 
 
 I am a Ph.D. student of SCSE, Nanyang Technological University. I am a member of [NTU MMLab](https://www.mmlab-ntu.com/) and advised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/). My current research lies in face manipulation, AI generation and machine learning on graphs.
 

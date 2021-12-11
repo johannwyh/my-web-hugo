@@ -103,7 +103,7 @@ $$
 
 Hence, $P_{t-1} = P_{t} \cdot D_{t-1}$ and $G_{t-1} = P_{t} \cdot E_{t-1} + G_{t}$.
 
-All we need to do is keep deriving it until $t=T-\tau$, where $\nabla_{\theta} w_{\theta, T-\tau} = \mathbf{0}$ as $w_{\theta, T-\tau}$ has nothing to do with **current** $\theta$.
+All we need to do is keep deriving it until $t=T-\tau$, where $\nabla_{\theta} w_{\theta, T-\tau} = \mathbf{0}$ as $w_{\theta, T-\tau}$ has nothing to do with current $\theta$.
 
 $$
 \begin{aligned}
