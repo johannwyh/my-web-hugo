@@ -14,13 +14,14 @@ organizations:
   url: https://www.mmlab-ntu.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI Generation and Graph Machine Learning.
+bio: My current research lies in 3D generation and video generation.
 
 # Interests to show in About widget
 interests:
-- Computer Vision
-- AI Generation
-- Graph Machine Learning
+- 3D Generation
+- Human Generation
+- Image and Video Generation
+- Face Manipulation
 
 # Education to show in About widget
 education:
@@ -51,7 +52,7 @@ social:
   link: https://github.com/johannwyh
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/%E5%AE%87%E6%99%97-%E7%8E%8B-1722641a1/
+  link: https://www.linkedin.com/in/yuhan-wang-1722641a1/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,8 +70,6 @@ highlight_name: true
 
 My name is spelled 王宇晗 in Chinese. 
 
-I am a Ph.D. student of SCSE, Nanyang Technological University. I am a member of [NTU MMLab](https://www.mmlab-ntu.com/) and advised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/). My current research lies in face manipulation, AI generation and machine learning on graphs.
+I am a Ph.D. student in the College of Computing and Data Science (CCDS), Nanyang Technological University. I am a member of [MMLab@NTU](https://www.mmlab-ntu.com/), advised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/). My current research lies in 3D generation, human generation and video generation. I am currently a research intern at [LightSpeed Studios](https://www.lightspeed-studios.com/), working with [Zeyu Hu](https://hzykent.github.io/), [Weikai Chen](https://chenweikai.github.io/), and [Xin Wang](https://www.linkedin.com/in/xin-wang-%E7%8E%8B%E9%91%AB-a3075375/) on 3D generation related topics.
 
-Before joining NTU, I earned my bachelor degree from Chu Kochen Honors College, Zhejiang University. I had some wonderful research experience in [ZJU-ZLST](http://eagle.zju.edu.cn/researchfield-4-4/), [Tencent Youtu Lab](https://open.youtu.qq.com/#/open/home) and [NCSU ARoS](https://research.ece.ncsu.edu/aros/). I worked closely with [Prof. Sheng Zhou](https://zhoushengisnoob.github.io/) and [Prof. Can Wang](https://person.zju.edu.cn/en/wangcan#775614) from ZJU, and [Ying Tai](https://tyshiwo.github.io/) and Junwei Zhu from Tencent Youtu.
-
-I am also an ACMer, participated in 6 ACM ICPC/CCPC Asia Regional Contest, won 4 gold medals and 2 silver medals.
+Before joining NTU, I earned my bachelor degree from Chu Kochen Honors College, Zhejiang University. I had some wonderful research experience in [Tencent Youtu Lab](https://open.youtu.qq.com/#/open/home) with [Dr. Ying Tai](https://tyshiwo.github.io/) and [Junwei Zhu](https://scholar.google.com/citations?user=-OxQlHsAAAAJ). I am also an ACMer, participated in six ACM ICPC/CCPC Asia Regional Contest, with four gold medals and two silver medals.

@@ -44,10 +44,10 @@ tags:
 featured: true
 
 links:
-- name: Official Site
+- name: Project Page
   url: http://johann.wang/HifiFace
 
-url_pdf: https://arxiv.org/pdf/2106.09965.pdf
+url_pdf: https://arxiv.org/abs/2106.09965
 # url_code: https://github.com/HuangYG123/CurricularFace
 url_dataset: http://johann.wang/HifiFace/
 # url_poster: '#'

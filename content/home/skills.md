@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 100
 
 title: Skills
 subtitle:
@@ -20,7 +20,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Language
-- description: PyTorch, DGL
+- description: PyTorch, CUDA
   icon: overleaf
   icon_pack: ai
   name: Research

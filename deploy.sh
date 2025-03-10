@@ -16,7 +16,7 @@ touch CNAME
 echo "johann.wang" > CNAME
 
 # Add changes to git.
-git add .
+git add . -A
 
 # Commit changes.
 msg="rebuilding site `date`"

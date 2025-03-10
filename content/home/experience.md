@@ -23,6 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
+    company: LightSpeed Stuios, Tencent
+    company_url: 'https://www.lightspeed-studios.com/'
+    #company_logo: org-gc
+    location: Singapore
+    date_start: '2024-10-14'
+    #date_end: '2021-11'
+    description: |2-
+      Research on 
+      * Geometry generation of 3D generation foundation model
+      * Primitive-decomposed 3D Generation
+  - title: Research Intern
     company: Tencent Youtu
     company_url: 'https://open.youtu.qq.com/#/open'
     #company_logo: org-gc

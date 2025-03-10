@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - #certificate_url: https://www.coursera.org
   date_end: ""
+  date_start: "2022-04-10"
+  description: ""
+  organization: NVIDIA
+  #organization_url: https://www.coursera.org
+  title: NVIDIA Hardware Grant Program, 2x A5000
+  url: ""
+- #certificate_url: https://www.coursera.org
+  date_end: ""
   date_start: "2022-01-10"
   description: ""
   organization: AISG

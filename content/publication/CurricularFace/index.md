@@ -38,7 +38,7 @@ featured: true
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: https://arxiv.org/pdf/2004.00288.pdf
+url_pdf: https://arxiv.org/abs/2004.00288
 url_code: https://github.com/HuangYG123/CurricularFace
 # url_dataset: '#'
 # url_poster: '#'
