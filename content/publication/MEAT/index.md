@@ -43,7 +43,7 @@ links:
 - name: Project Page
   url: 'https://johann.wang/MEAT/'
 
-#url_pdf: https://arxiv.org/abs/2308.16909
+url_pdf: https://arxiv.org/abs/2503.08664
 url_code: https://github.com/johannwyh/MEAT
 # url_dataset: http://johann.wang/HifiFace/
 # url_poster: '#'
