@@ -31,7 +31,7 @@ experience:
     #date_end: '2021-11'
     description: |2-
       Research on 
-      * Geometry generation of 3D generation foundation model
+      * 3D generation foundation model - Geometry generation
       * Primitive-decomposed 3D Generation
   - title: Research Intern
     company: Tencent Youtu
