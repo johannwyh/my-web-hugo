@@ -19,9 +19,10 @@ Conference Reviewer:
 
 * **AAAI** 2024
 * **ECCV** 2024
-* **CVPR** 2025
+* **CVPR** 2025, 2026
 * **ICCV** 2025
+* **SIGGRAPH Asia** 2025
 
 Students Mentoring:
 
-* **NTU Final Year Project (FYP)**: Cecelia Soh Yan Pei
+* **NTU Final Year Project (FYP)**: [Cecelia Soh Yan Pei](https://www.linkedin.com/in/cecelia-soh-6b3522217/), [Pearlina Tan Qinlin](https://www.linkedin.com/in/pearlina-tan/)

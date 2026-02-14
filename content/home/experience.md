@@ -28,7 +28,7 @@ experience:
     #company_logo: org-gc
     location: Singapore
     date_start: '2024-10-14'
-    #date_end: '2021-11'
+    date_end: '2025-08-11'
     description: |2-
       Research on 
       * 3D generation foundation model - Geometry generation
