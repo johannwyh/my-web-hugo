@@ -23,12 +23,9 @@ twitter: ''
 email: yuhan004@e.ntu.edu.sg
 #phone: 888 888 88 88
 address:
-  street: Academic Block North
-  city: NTU
-  region: Singapore
-  postcode: '637335'
-  #country: United States
-  #country_code: US
+  street: 79 Robinson Rd
+  city: Singapore
+  postcode: '068897'
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'

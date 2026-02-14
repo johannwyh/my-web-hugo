@@ -68,8 +68,9 @@ email: "yuhan004@e.ntu.edu.sg"
 highlight_name: true
 ---
 
-My name is spelled 王宇晗 in Chinese. 
+I am Yuhan Wang (王宇晗), currently a Senior Researcher at [Hunyuan, Tencent](https://hunyuan.tencent.com/visual), where I work on 3D generation foundation models for [Hunyuan3D](https://3d.hunyuan.tencent.com/). I am also completing my Ph.D. in [College of Computing and Data Science](https://hongfz16.github.io/), [Nanyang Technological University](https://www.ntu.edu.sg/), affiliated with [MMLab@NTU](https://www.mmlab-ntu.com/), advised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/). My current research interests are in 3D representation and generation.
 
-I am a Ph.D. student in the College of Computing and Data Science (CCDS), Nanyang Technological University. I am a member of [MMLab@NTU](https://www.mmlab-ntu.com/), advised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/). My current research lies in 3D generation, human generation and video generation. I was fortunate to have a research internship at [LightSpeed Studios](https://www.lightspeed-studios.com/) from 2024 to 2025, working on 3D generation related topics.
+During my industry research internships, I am honored to have worked with [Zeyu Hu](https://hzykent.github.io/), [Weikai Chen](https://chenweikai.github.io/), and [Xin Wang](https://scholar.google.com/citations?user=2Z1GJ50AAAAJ&hl=en) at [LightSpeed Studios](https://www.lightspeed-studios.com/), and with [Ying Tai](https://tyshiwo.github.io/) and [Junwei Zhu](https://scholar.google.com/citations?user=-OxQlHsAAAAJ) at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open/home). Before NTU, I earned my bachelor's degree from Chu Kochen Honors College, Zhejiang University. I participated in six ACM ICPC/CCPC Asia Regional Contests, earning four gold medals and two silver medals.
 
-Before NTU, I earned my bachelor degree from Chu Kochen Honors College, Zhejiang University. I had some wonderful experience in [Tencent Youtu Lab](https://open.youtu.qq.com/#/open/home) with [Dr. Ying Tai](https://tyshiwo.github.io/) and [Junwei Zhu](https://scholar.google.com/citations?user=-OxQlHsAAAAJ). I am also an ACMer, participated in six ACM ICPC/CCPC Asia Regional Contest, with four gold medals and two silver medals.
+---
+**We are hiring!** Hunyuan3D is looking for research interns, opportunities in both **Singapore** and **China**. Feel free to reach out through [email](mailto:yuhan004@e.ntu.edu.sg) or [LinkedIn](https://www.linkedin.com/in/yuhan-wang-1722641a1).

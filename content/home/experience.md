@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Researcher
+    company: Hunyuan, Tencent
+    company_url: https://hunyuan.tencent.com/visual
+    location: Singapore
+    date_start: '2026-02-02'
+    description: |2-
+      * Research on 3D generation foundation model. 
+      * Latest releases can be found at [Hunyuan3D Website](https://3d.hunyuan.tencent.com/).
   - title: Research Intern
     company: LightSpeed Studios, Tencent
     company_url: 'https://www.lightspeed-studios.com/'

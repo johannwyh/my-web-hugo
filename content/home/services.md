@@ -18,7 +18,7 @@ subtitle: ''
 Conference Reviewer:
 
 * **AAAI** 2024
-* **ECCV** 2024
+* **ECCV** 2024, 2026
 * **CVPR** 2025, 2026
 * **ICCV** 2025
 * **SIGGRAPH Asia** 2025
