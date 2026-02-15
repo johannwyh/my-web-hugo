@@ -6,15 +6,15 @@ title: Yuhan Wang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. student of MMLab@NTU
+role: Senior Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Nanyang Technological University
-  url: https://www.mmlab-ntu.com/
+- name: Hunyuan, Tencent
+  url: https://hunyuan.tencent.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research lies in 3D generation and video generation.
+bio: My current research interests are in 3D representation and generation.
 
 # Interests to show in About widget
 interests:
